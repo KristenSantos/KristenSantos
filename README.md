@@ -1,4 +1,5 @@
 <h2 align="left">Hi 👋! My name is Kristen and I'm a Full-Stack Software Engineer, from New York</h2>
+
 - 🌱 I’m currently learning **Python**
 
 - 📝 I regularly write articles on [Medium](Medium)
